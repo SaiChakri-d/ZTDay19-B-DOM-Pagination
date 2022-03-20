@@ -1,0 +1,22 @@
+
+#fs
+{
+    background-color: rgb(253, 253, 253);
+    text-decoration: solid;
+   
+    
+}
+
+#fs:focus{
+    background-color:rgb(40, 133, 253);
+    color:aliceblue;
+}
+
+#fs:hover{
+    background-color:rgb(145, 193, 255);
+}
+table tr td
+{
+    border: solid rgb(0, 0, 0) 2px; 
+}
+
